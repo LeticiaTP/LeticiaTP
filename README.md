@@ -1,4 +1,4 @@
 ### Olá! ✨
 
-- 🔭 Time Front! Porém estudando Python e C#.
+- 🔭 Time Front! Estudando Angular, Python e C#.
 - ⚡ Fun fact: Sou INFP.
