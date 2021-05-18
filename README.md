@@ -1,10 +1,10 @@
-<!-- ### Olá! ✨
+### Olá! ✨
 
 - 🔭 Time Front!
 - 🤓 Estudando Angular, Python e C#.
 - ⚡ Fun fact: Meu tipo no MBTI é INFP.
 
-## -->
+##
 
  <div>
   <a href="https://github.com/LeticiaTP">
