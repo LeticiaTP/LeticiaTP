@@ -1,7 +1,7 @@
 ### Olá! ✨
 
 - 🔭 Time Front!
-- 🤓 Estudando Angular, Python e C#.
+- 🤓 Estudando Angular, Python com Flask e C#.
 - ⚡ Fun fact: Meu tipo no MBTI é INFP.
 
 ##
