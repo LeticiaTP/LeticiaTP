@@ -1,7 +1,7 @@
 ### Olá! ✨
 
 - 👩‍💻 Girl in tech!
-- 🌞 Natural da "Terra dos altos coqueiros".
+- 🌞 Natural da "terra dos altos coqueiros".
 - 📚 Originalmente FrontEnd, porém estudando BackEnd.
 - 😼 Obsecada por música e JoJo's Bizarre Adventure.
  
