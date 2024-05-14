@@ -2,7 +2,7 @@
 
 - 💡 Movida pela paixão de transformar linhas de código em soluções que fazem a diferença.
 - 🌟 Navegando pelos caminhos complexos do desenvolvimento de software com curiosidade infinita.
-- 🎨 Sempre buscando a harmonia entre forma e função, buscando criar experiências intuitivas.
+- 🎨 Sempre buscando a harmonia entre forma e função para criar experiências intuitivas.
 - 🔍 À procura de bugs para domar e problemas para resolver.
 - 🖥️ Preocupada com acessibilidade em cada linha de código.
 - 📫 Quer bater um papo? kleticiatpaulino@outlook.com
